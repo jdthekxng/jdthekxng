@@ -1,8 +1,11 @@
 ## Hi beautiful people😁👋
 
+
+My name is Coleman Henry Ayensu and i'm a jack of all trades.
+Currently interested in Cyber Security, Web development and Data Analyzation(I always want to learn more so it might change in the near future).
+
 <!--
 **jdthekxng/jdthekxng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
